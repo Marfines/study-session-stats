@@ -1,0 +1,6 @@
+[
+  {"subject": "Java", "minutes": 45},
+  {"subject": "Git", "minutes": 30},
+  {"subject": "Java", "minutes": 60},
+  {"subject": "CI/CD", "minutes": 40}
+]
